@@ -1,7 +1,7 @@
 # Electronic-House-pet
 # 电子宠物
 
-#这是一个用 Python 和 PyGame 创建的电子宠物项目。
+这是一个用 Python 和 PyGame 创建的电子宠物项目。
 
 #功能
 
