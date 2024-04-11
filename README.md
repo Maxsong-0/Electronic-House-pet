@@ -1,5 +1,4 @@
 # Electronic-House-pet
-# 电子宠物
 
 这是一个用 Python 创建的电子宠物项目。
 
