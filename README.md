@@ -31,7 +31,7 @@
 
 ### 作者
 
-Max Song，JJ
+Max Song，JJ Zhang
 
 ### 致谢
 
